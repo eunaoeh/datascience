@@ -1,7 +1,8 @@
+# Data Science
 
 ## project_apriori
-* Using given input.txt, find all association rules by using Apriori Algorithm
-* Check apriori_wiki.pdf for detail
+  * Using given input.txt, find all association rules by using Apriori Algorithm
+  * Check apriori_wiki.pdf for detail
 
 ## project_clustering_DBSCAN
 * Using given dataset in data folder(ex. input1.txt), cluster the given data by using DBSCAN
