@@ -1,4 +1,3 @@
-# datascience
 
 ## project_apriori
 * Using given input.txt, find all association rules by using Apriori Algorithm
